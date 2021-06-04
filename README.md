@@ -1,0 +1,2 @@
+# CFCCoin
+CFCCoin
